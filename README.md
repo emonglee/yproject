@@ -1,3 +1,6 @@
 # worksapce + project
 
-테스트 파일 버전1
+테스트 파일 
+
+# 기능 목록
+1. COMMIT 테스트

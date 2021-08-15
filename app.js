@@ -1,3 +1,5 @@
 const appInit ={
+    init : function(){
 
+    }
 }
